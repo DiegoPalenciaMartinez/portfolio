@@ -13,7 +13,7 @@ This website is part of my professional development as a third-year
 Video Game Design and Development student at Universidad Rey Juan
 Carlos (URJC).
 
-Link -> https://fussed19.github.io/portfolio/
+Link -> https://diegopalenciamartinez.github.io/portfolio/
 
 ## Technology Stack
 
